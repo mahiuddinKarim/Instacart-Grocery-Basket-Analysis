@@ -10,4 +10,4 @@ DEPARTMENTS
 PANDAS for analysis
 SEABORN for visualization
 # Code
-Codes are available in script folders.
+Codes are available in Scripts folders.
